@@ -54,7 +54,7 @@ The goal was to create a fully responsive website template with:
 
 ### Live Site
 
-[Visit the Live Site](#) *(Link to be added)*
+[Visit the Live Site](https://fathyhesham.github.io/Kasper-Website/)
 
 ---
 
